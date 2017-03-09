@@ -5,8 +5,6 @@
 
 Let's first look at how can ensure in the code, that logging works properly
 
-    -> Ian
-
 Try to add this to your own service, look at the `logging-and-metrics` directory.
 
 If you have added some code, build a new image:
